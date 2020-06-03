@@ -1,0 +1,6 @@
+#!/bin/dash
+
+# I hate this more than the other one
+# Unplug to dump serial
+
+tail -f $1

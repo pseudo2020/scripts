@@ -1,0 +1,5 @@
+#!/bin/dash
+
+# So simple i hate it
+
+echo $1 > $2

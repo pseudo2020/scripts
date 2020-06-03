@@ -1,0 +1,3 @@
+#!/bin/dash
+
+/opt/adobe-air-sdk/bin/adl -nodebug /home/pseudo/music/boscaceoil/share/META-INF/AIR/application.xml /home/pseudo/music/boscaceoil/share/
